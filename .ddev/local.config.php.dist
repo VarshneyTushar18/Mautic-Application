@@ -15,4 +15,5 @@ $parameters = [
     'mailer_from_name'      => 'DDEV',
     'mailer_from_email'     => 'mautic@ddev.local',
     'mailer_dsn'            => 'smtp://localhost:1025',
+    'site_url'              => 'http://127.0.0.1:8888',
 ];
